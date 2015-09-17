@@ -6,11 +6,11 @@ J'ai réalise aussi des films documentaires.
 _Expérience professionnelle_
 --------
 J'ai travaillé comme 
-* analiste politique
-* journaliste
-* professeure de français au Mexique
-* traductrice français espagnol
-* organizatrice d'évènements culturels, artistiques, asociatifs...
+* Analiste politique
+* Journaliste
+* Professeure de français au Mexique
+* Traductrice français espagnol
+* Organizatrice d'évènements culturels, artistiques, asociatifs...
  
 _Formation_
 --------
@@ -18,6 +18,8 @@ _Formation_
 2. Maitrise en Sciences du langage
 3. Licence en Linguistique
 4. Licence en Littérature française 
+
+
 --------
 * Divers cours de montage vidéo et création cinématographique
 
@@ -33,5 +35,3 @@ car, en tant que linguiste, apprendre d'autres langages, ne représente qu'une s
 
 J'attends de la formation un accompagnement vers la connaissance du code et la pratique du code, un apreçu des différentes possibilités que cette connaissance permet de développer.
 Pourquoi pas la rencontre avec d'autres personnes intéressées par le code et prêtes à développer des projets communs ou des partenariats.
-
-gitadd <README.md> gitcommit -m "ajot texte de présentation" 
